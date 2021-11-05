@@ -1,0 +1,39 @@
+﻿@using WebDemo.Resources
+@model CustomerViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+@inject LocalizationService LocalizationService
+
+<div class="card">
+    <div class="card-header">Create</div>
+    <div class="card-body">
+        <form asp-controller="Customer" asp-action="Create" method="post">
+            <div class="form-row">
+                <div class="col">
+                    <label asp-for="Name"></label> | @LocalizationService.GetLocalizedHtmlString("Name")
+                    <input asp-for="Name" placeholder="Enter Name" class="form-control" />
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="col">
+                    <label asp-for="Title"></label> | @LocalizationService.GetLocalizedHtmlString("Title")
+                    <input asp-for="Title" placeholder="Enter Title" class="form-control" />
+                    <span asp-validation-for="Title"></span>
+                </div>
+                <div class="col">
+                    <label asp-for="Notes"></label> | @LocalizationService.GetLocalizedHtmlString("Notes")
+                    <input asp-for="Notes" placeholder="Enter Notes" class="form-control" />
+                    <span asp-validation-for="Notes"></span>
+                </div>
+
+            </div>
+            <div class="clearfix"></div>
+            <div class="form-row">
+                <div class="col">
+                    <button style="margin-top: 10px" class="btn btn-success" type="submit"> Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
