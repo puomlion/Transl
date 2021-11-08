@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\WebDemo.csproj",
+  "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\WebDemo.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,53 +14402,53 @@
   "RootNamespace": "WebDemo",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\Registration\\Register.cshtml",
-      "TargetPath": "Views\\Registration\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\Customer\\Create.cshtml",
-      "TargetPath": "Views\\Customer\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\Views\\Shared\\_SetLanguagePartial.cshtml",
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\Customer\\Create.cshtml",
+      "TargetPath": "Views\\Customer\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\Shared\\_SetLanguagePartial.cshtml",
       "TargetPath": "Views\\Shared\\_SetLanguagePartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\Registration\\Register.cshtml",
+      "TargetPath": "Views\\Registration\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

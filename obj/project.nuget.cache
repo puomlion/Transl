@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bODZ1mgPHCdyBbQNtDncf3IRgty1kjJGFr/bCNoW/qsvtZ4pxT3jCy+NRZMhc+Rv87/Swbmnf6AwPK5DLvjZdA==",
+  "dgSpecHash": "ElI/Jy66hFlC03lJ6st7NdIrI9ZQzpTz4NmOs7MtUSyJxDFMlZsg5AaIwVrf8QQMj4itp3n/DqOpidkS4Cno/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samuel\\Desktop\\Globalization-and-Localization-in-ASP.NET-Core-master\\WebDemo\\WebDemo\\WebDemo.csproj",
+  "projectFilePath": "C:\\Users\\Samuel\\Desktop\\WebDemo\\WebDemo\\WebDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
