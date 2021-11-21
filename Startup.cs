@@ -14,6 +14,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
 using WebDemo.Resources;
+using WebDemo;
+
 
 namespace WebDemo
 {
@@ -29,7 +31,6 @@ namespace WebDemo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            
             services.AddLocalization(options => options.ResourcesPath = "Resources");
             services.AddSingleton<LocalizationService>();
             services.AddMvc()

@@ -270,3 +270,4 @@ C:\Users\Samuel\Desktop\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\de\WebDemo.resou
 C:\Users\Samuel\Desktop\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\en\WebDemo.resources.cs
 C:\Users\Samuel\Desktop\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\hi\WebDemo.resources.cs
 C:\Users\Samuel\Desktop\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\zh\WebDemo.resources.cs
+C:\Users\Samuel\Desktop\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Viewpage.cshtml.g.cs

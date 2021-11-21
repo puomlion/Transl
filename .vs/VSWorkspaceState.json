@@ -3,10 +3,8 @@
     "",
     "\\bin",
     "\\Controllers",
-    "\\Models",
-    "\\Views",
-    "\\Views\\Home"
+    "\\Models"
   ],
-  "SelectedNode": "\\appsettings.json",
+  "SelectedNode": "\\WebDemo.csproj",
   "PreviewInSolutionExplorer": false
 }
